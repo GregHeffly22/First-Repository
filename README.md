@@ -1,2 +1,2 @@
 # wdd-130
-This is for my class
+My name is Greg Evans
